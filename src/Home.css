@@ -1,0 +1,13 @@
+.cont{
+    margin: auto;
+    justify-content:center;
+    align-items:center;
+    padding:100px 100px 100px 100px;
+}
+.dropdown{
+    padding: 100px 100px 100px 450px;
+    position: relative;
+}
+.btn{
+    margin-left: 10px;
+}
